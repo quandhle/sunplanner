@@ -19,7 +19,7 @@ class Focus extends Component {
                         <p>List good things...</p>
                     </div>
                 </div>
-                <div className="daily container col">
+                <div className="daily container">
                     <Day day="Sunday"/>
                     <Day day="Monday"/>
                     <Day day="Tuesday"/>
