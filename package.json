@@ -1,7 +1,7 @@
 {
     "name": "sunplanner",
     "version": "1.0.0",
-    "description": "Travel logging site with ReactJS and PHP",
+    "description": "Planner modeled after Passion",
     "main": "index.js",
     "proxy": {
         "/api/*": {
@@ -21,11 +21,12 @@
     },
     "dependencies": {
         "aws-sdk": "^2.438.0",
-        "axios": "^0.18.0",
+        "axios": "^0.19.0",
         "cors": "^2.8.5",
         "express": "^4.17.1",
         "express-fileupload": "^1.1.4",
         "google-maps-react": "^2.0.2",
+        "mysql": "^2.17.1",
         "react": "^16.5.2",
         "react-dom": "^16.5.2",
         "react-redux": "^5.0.7",
